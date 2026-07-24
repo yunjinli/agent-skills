@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixi Python"
+  short_description: "Design robust Pixi Python environments"
+  default_prompt: "Use $pixi-python to design or review a Pixi Python environment."

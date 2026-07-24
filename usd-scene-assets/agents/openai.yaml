@@ -1,0 +1,4 @@
+interface:
+  display_name: "USD Scene Assets"
+  short_description: "Organize modular USD scene assets"
+  default_prompt: "Use $usd-scene-assets to organize a USD scene asset for simulation and IsaacLab."
