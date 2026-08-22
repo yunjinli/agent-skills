@@ -1,0 +1,4 @@
+interface:
+  display_name: "IsaacLab Conventions"
+  short_description: "Catch silent convention mismatches at the IsaacLab boundary"
+  default_prompt: "Use $isaaclab-conventions to check state conversion between IsaacLab and another simulator."
